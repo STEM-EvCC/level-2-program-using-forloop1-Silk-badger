@@ -14,6 +14,6 @@ print("\n", f"Success Rate: {success/total*100:.2f}%") #This calculates the succ
 print("\n", f"Missions before 2000: ") #This prints the number of missions before 2000.
 #initally had an error, but it was because I forgot to use f before the text. 
 for t in range(total):
-     if mission_years[t] < 2000: print(f"{mission_names[t]}")
+     if mission_years[t] < 2000: print(f"{mission_names[t]}") #Finds out which versions are before 2000, and prints them one by one.
 
      #I made the concious choice of adding \n for spacing, just to make it easier to read (in my opinion).
