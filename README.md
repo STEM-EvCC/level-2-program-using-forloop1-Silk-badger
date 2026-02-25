@@ -1,1 +1,3 @@
 # STEM103_Level3_1-ForLoop
+
+Hello, my name is Jack Towler. Today is 2/23/25, and the current assignment is relatively simple (Supposedly). I've just finished the in class work, and will be working on both this assignment and the previous (Functions) assignment. As of now, 2/2/5/26 @ ~3pm, I've finished the main assignment. It essentially is much easier than expected, as long as you use some relatively basic math and consider the examples given. While not exactly 10 lines, I would say it's quite easy to read and concise, plus it looks good in the actual print. 
